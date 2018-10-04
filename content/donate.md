@@ -15,7 +15,7 @@ description = "El Salvador VTO - November 10-18, 2018"
             <p class="lead">Shelter VT1811-02A Sunwest-Jake Fluker/Darron F</p>
             <p><a href="https://www.sheltercanada.ca/donate-us" class="btn btn-primary btn-hover-white py-3 px-5">Donate Now - USA</a></p>
             <p><a href="https://www.sheltercanada.ca/donate" class="btn btn-primary btn-hover-white py-3 px-5">Donate Now - Canada</a></p>
-            <p>You can also put one of our names inside the comment box - that will help to get the donation to the right place.</p>
+            <p class="lead">You can also put one of our names inside the comment box - that will help to get the donation to the right place.</p>
           </div>
         </div>
       </div>
